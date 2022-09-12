@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MBilal-Farooq
-- 🌱 I’m currently learning NodeJs, React, TypeScript and DevOps
+- 🌱 I’m currently working on NodeJs, React, TypeScript and DevOps
 - 💞️ I’m looking to collaborate on some Node.JS libraries
 - 📫 You can reach me on bilalfarooq293@gmail.com
 
